@@ -57,4 +57,4 @@ app.use(routes);
     //return res.json({ message: "ouvindo" });
 //});
 
-server.listen(process.env.PORT || 3333);
+server.listen(3333);
